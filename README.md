@@ -2,7 +2,7 @@
 
 Code in private repository
 
-Demo: https://app.jinbox.com
+Demo: http://app.jinbox.com
 
 See Screenshots for UI
 
