@@ -2,7 +2,7 @@
 
 <p>Code in private repository</p>
 
-<p>Demo: http://app.jinbox.com</p>
+<p>Demo: http://app.jinbox.com (it may take some time to load the first time due to the server activation</p>
 
 <h2>UI Screenshots</h2>
 <table>
